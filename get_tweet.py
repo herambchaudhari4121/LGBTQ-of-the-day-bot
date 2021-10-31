@@ -1,6 +1,6 @@
 '''
 get_tweets.py: mash together a random tweet
-10 September 2020
+10 September 2021
 Vicki Langer (@vicki_langer)
 '''
 
